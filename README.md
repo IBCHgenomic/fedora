@@ -37,3 +37,10 @@ Flags:
   -t, --search string         search for a specific package repository (default "search a specific package")
   -a, --searchall string      search all the package repository (default "search all the package")
 ```
+
+- Code related queries: Dr. Gaurav Sablok: gsablok@ibch.poznan.pl.
+
+Gaurav Sablok \
+Instytut Chemii Bioorganicznej Polskiej Akademii Nauk \
+ul. Noskowskiego 12/14 | 61-704, \
+Poznań Poland
