@@ -1,7 +1,12 @@
-# fedora-devops
+# fedorasystem
 
-- a fedora system utility for monitoring the fedora installations.
+- a upgraded fedora system utility for monitoring the fedora installations.
 - all the commands in the install take the flag and the yes and the rpm path.
+
+```
+ git clone https://github.com/IBCHgenomic/fedora.git
+ go build
+```
 
 ```
 Usage:
